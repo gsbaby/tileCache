@@ -1,0 +1,34 @@
+INFO:root:Start,and the time is :
+INFO:root:2021-03-19 09:39:58
+INFO:root:inputFileName£ºF:/GaoSong/tileCache2/Test/input/WH_BT_DEM_12_5.tif
+INFO:root:outputFileName£ºF:/GaoSong/tileCache2/Test/output/s
+INFO:root:startLevel£º1,stopLevel£º19
+INFO:root:cores£º4
+INFO:root:2021-03-19 09:40:48
+INFO:root:Start,and the time is :
+INFO:root:2021-03-19 09:41:28
+INFO:root:inputFileName£ºF:/GaoSong/tileCache2/Test/input/WH_BT_DEM_12_5.tif
+INFO:root:outputFileName£ºF:/GaoSong/tileCache2/Test/output/s
+INFO:root:startLevel£º1,stopLevel£º10
+INFO:root:cores£º4
+INFO:root:2021-03-19 09:42:02
+INFO:root:Finish,and the time is:
+INFO:root:2021-03-19 09:42:05
+INFO:root:inputFileName£ºF:/GaoSong/tileCache2/Test/input/WH_BT_DEM_12_5.tif
+INFO:root:outputFileName£ºF:/GaoSong/tileCache2/Test/output/s
+INFO:root:startLevel£º1,stopLevel£º19
+INFO:root:cores£º4
+INFO:root:2021-03-19 09:42:27
+INFO:root:Start,and the time is :
+INFO:root:2021-03-19 09:49:30
+INFO:root:Start,and the time is :
+INFO:root:2021-03-19 09:50:22
+INFO:root:inputFileName£ºF:/GaoSong/tileCache2/demo/Test/input/WH_BT_DEM_12_5.tif
+INFO:root:outputFileName£ºF:/GaoSong/tileCache2/demo/Test/output/s
+INFO:root:startLevel£º1,stopLevel£º12
+INFO:root:cores£º4
+INFO:root:2021-03-19 09:51:02
+INFO:root:Finish,and the time is:
+INFO:root:2021-03-19 09:51:05
+INFO:root:Start,and the time is :
+INFO:root:2021-03-19 10:06:31

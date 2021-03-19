@@ -1,0 +1,49 @@
+INFO:root:Start,and the time is :
+INFO:root:2021-03-19 16:39:04
+INFO:root:inputFileName£ºF:/GaoSong/tileCache2/demo/Test/input/WH_BT_DEM_12_5.tif
+INFO:root:outputFileName£ºF:/GaoSong/tileCache2/demo/Test/output/s
+INFO:root:startLevel£º1,stopLevel£º18
+INFO:root:cores£º4
+INFO:root:2021-03-19 16:39:30
+INFO:root:Start,and the time is :
+INFO:root:2021-03-19 16:41:03
+INFO:root:inputFileName£ºF:/GaoSong/tileCache2/component/wuhu_10M_MASK.dat
+INFO:root:outputFileName£ºF:/GaoSong/tileCache2/demo/Test/output/wuhu_10M_MASK
+INFO:root:startLevel£º1,stopLevel£º13
+INFO:root:cores£º4
+INFO:root:2021-03-19 16:42:45
+INFO:root:Finish,and the time is:
+INFO:root:2021-03-19 16:44:12
+INFO:root:inputFileName£ºF:/GaoSong/tileCache2/component/20200318_mask.dat
+INFO:root:outputFileName£ºF:/GaoSong/tileCache2/demo/Test/output/20200318_mask
+INFO:root:startLevel£º1,stopLevel£º13
+INFO:root:cores£º4
+INFO:root:2021-03-19 16:45:25
+INFO:root:Finish,and the time is:
+INFO:root:2021-03-19 16:46:12
+INFO:root:inputFileName£ºF:/GaoSong/tileCache2/component/20201107_layerstack_15KM.dat
+INFO:root:outputFileName£ºF:/GaoSong/tileCache2/demo/Test/output/20200318_mask
+INFO:root:startLevel£º1,stopLevel£º13
+INFO:root:cores£º4
+INFO:root:2021-03-19 16:51:03
+INFO:root:Start,and the time is :
+INFO:root:2021-03-19 16:52:36
+INFO:root:inputFileName£ºF:/GaoSong/tileCache2/component/20201107_layerstack_15KM.dat
+INFO:root:outputFileName£ºF:/GaoSong/tileCache2/demo/Test/output/20200318_mask
+INFO:root:startLevel£º1,stopLevel£º13
+INFO:root:cores£º4
+INFO:root:2021-03-19 16:54:02
+INFO:root:Start,and the time is :
+INFO:root:2021-03-19 16:58:26
+INFO:root:inputFileName£ºF:/GaoSong/tileCache2/component/20201107.dat
+INFO:root:outputFileName£ºF:/temp/20200318_mask
+INFO:root:startLevel£º1,stopLevel£º13
+INFO:root:cores£º4
+INFO:root:2021-03-19 16:58:57
+INFO:root:Start,and the time is :
+INFO:root:2021-03-19 17:02:07
+INFO:root:inputFileName£ºF:/GaoSong/tileCache2/component/dat1.tif
+INFO:root:outputFileName£ºF:/temp/20200318_mask
+INFO:root:startLevel£º1,stopLevel£º13
+INFO:root:cores£º4
+INFO:root:2021-03-19 17:03:11
